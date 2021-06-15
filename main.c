@@ -1,7 +1,7 @@
 int main()
 {
   int i;
-  int itrCount = 35;
+  int itrCount = 32;
   for (i = 0; i < itrCount; i++)
   {
     printf("Hello School\n");
