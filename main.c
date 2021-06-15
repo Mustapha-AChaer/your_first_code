@@ -1,9 +1,10 @@
 int main()
 {
   int i;
-  for (i = 0; i < 10; i++)
+  int itrCount = 35;
+  for (i = 0; i < itrCount; i++)
   {
-    printf("School\n");
+    printf("Hello School\n");
   }
   return 0;
 }
